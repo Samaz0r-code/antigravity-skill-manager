@@ -1,5 +1,5 @@
 {
-  "total_skills": 2,
+  "total_skills": 3,
   "installed_skills": [
     {
       "id": "skill_manager",
@@ -17,6 +17,15 @@
       "path": "skill/design/ui_ux_pro_max.md",
       "description": "Inteligencia de diseño AI con 67 estilos, 161 paletas y guías de UX avanzadas.",
       "version": "2.5.0",
+      "installed_on": "2026-05-06"
+    },
+    {
+      "id": "frontend_design",
+      "category": "design",
+      "name": "Frontend Design",
+      "path": "skill/design/frontend_design.md",
+      "description": "Diseño frontend de alta calidad basado en Design Thinking y estética audaz.",
+      "version": "1.0.0",
       "installed_on": "2026-05-06"
     }
   ]
