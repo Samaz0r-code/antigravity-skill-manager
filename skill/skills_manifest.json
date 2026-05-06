@@ -1,5 +1,5 @@
 {
-  "total_skills": 4,
+  "total_skills": 10,
   "installed_skills": [
     {
       "id": "skill_manager",
@@ -34,6 +34,60 @@
       "name": "Design Taste",
       "path": "skill/design/design_taste.md",
       "description": "Ingeniería Senior de UI/UX que elimina sesgos de IA y aplica micro-interacciones avanzadas.",
+      "version": "1.0.0",
+      "installed_on": "2026-05-06"
+    },
+    {
+      "id": "accessibility",
+      "category": "web_quality",
+      "name": "Accessibility",
+      "path": "skill/web_quality/accessibility/SKILL.md",
+      "description": "Comprehensive accessibility audit following WCAG 2.2 guidelines.",
+      "version": "1.0.0",
+      "installed_on": "2026-05-06"
+    },
+    {
+      "id": "best_practices",
+      "category": "web_quality",
+      "name": "Best Practices",
+      "path": "skill/web_quality/best-practices/SKILL.md",
+      "description": "Modern web development standards and security practices.",
+      "version": "1.0.0",
+      "installed_on": "2026-05-06"
+    },
+    {
+      "id": "core_web_vitals",
+      "category": "web_quality",
+      "name": "Core Web Vitals",
+      "path": "skill/web_quality/core-web-vitals/SKILL.md",
+      "description": "Specialized skill for the three Core Web Vitals that affect Google Search ranking.",
+      "version": "1.0.0",
+      "installed_on": "2026-05-06"
+    },
+    {
+      "id": "performance",
+      "category": "web_quality",
+      "name": "Performance",
+      "path": "skill/web_quality/performance/SKILL.md",
+      "description": "Deep-dive into loading and runtime performance optimization.",
+      "version": "1.0.0",
+      "installed_on": "2026-05-06"
+    },
+    {
+      "id": "seo",
+      "category": "web_quality",
+      "name": "SEO",
+      "path": "skill/web_quality/seo/SKILL.md",
+      "description": "Search engine optimization for better visibility and ranking.",
+      "version": "1.0.0",
+      "installed_on": "2026-05-06"
+    },
+    {
+      "id": "web_quality_audit",
+      "category": "web_quality",
+      "name": "Web Quality Audit",
+      "path": "skill/web_quality/web-quality-audit/SKILL.md",
+      "description": "Comprehensive quality review across all categories.",
       "version": "1.0.0",
       "installed_on": "2026-05-06"
     }
