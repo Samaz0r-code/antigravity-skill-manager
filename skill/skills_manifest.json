@@ -3,16 +3,18 @@
   "installed_skills": [
     {
       "id": "skill_manager",
+      "category": "core",
       "name": "Skill Manager",
-      "path": "skill/skill_manager.md",
+      "path": "skill/core/skill_manager.md",
       "description": "Núcleo de gestión para instalar y validar nuevas habilidades.",
       "version": "1.1",
       "installed_on": "2026-05-06"
     },
     {
       "id": "ui_ux_pro_max",
+      "category": "design",
       "name": "UI/UX Pro Max",
-      "path": "skill/ui_ux_pro_max.md",
+      "path": "skill/design/ui_ux_pro_max.md",
       "description": "Inteligencia de diseño AI con 67 estilos, 161 paletas y guías de UX avanzadas.",
       "version": "2.5.0",
       "installed_on": "2026-05-06"
