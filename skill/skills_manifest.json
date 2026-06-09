@@ -1,5 +1,5 @@
 {
-  "total_skills": 29,
+  "total_skills": 30,
   "installed_skills": [
     {
       "id": "skill_manager",
@@ -259,6 +259,15 @@
       "name": "Google Ads Setup",
       "path": "skill/automation/google-ads/google-ads-setup/SKILL.md",
       "description": "Verify and setup API credentials for Google Ads and GA4.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "mcp_installer",
+      "category": "core",
+      "name": "MCP Installer",
+      "path": "skill/core/mcp-installer/SKILL.md",
+      "description": "Automatiza y estandariza la instalación y registro de nuevos servidores MCP y habilidades.",
       "version": "1.0.0",
       "installed_on": "2026-06-08"
     }
