@@ -1,5 +1,5 @@
 {
-  "total_skills": 10,
+  "total_skills": 11,
   "installed_skills": [
     {
       "id": "skill_manager",
@@ -90,6 +90,15 @@
       "description": "Comprehensive quality review across all categories.",
       "version": "1.0.0",
       "installed_on": "2026-05-06"
+    },
+    {
+      "id": "karpathy_guidelines",
+      "category": "core",
+      "name": "Karpathy Guidelines",
+      "path": "skill/core/karpathy-guidelines/SKILL.md",
+      "description": "Behavioral guidelines to reduce common LLM coding mistakes.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
     }
   ]
 }
