@@ -1,5 +1,5 @@
 {
-  "total_skills": 25,
+  "total_skills": 29,
   "installed_skills": [
     {
       "id": "skill_manager",
@@ -223,6 +223,42 @@
       "name": "Lazyweb Quick References",
       "path": "skill/design/lazyweb-skills/lazyweb-quick-references/SKILL.md",
       "description": "Rapid lookup guidelines for modern UX and frontend development.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "google_ads_analyze",
+      "category": "automation",
+      "name": "Google Ads Analyze",
+      "path": "skill/automation/google-ads/google-ads-analyze/SKILL.md",
+      "description": "Analyze performance of Google Ads campaigns, ads, and keywords.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "google_ads_ga4",
+      "category": "automation",
+      "name": "Google Ads GA4",
+      "path": "skill/automation/google-ads/google-ads-ga4/SKILL.md",
+      "description": "Query reports and user info in real-time from GA4.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "google_ads_manage",
+      "category": "automation",
+      "name": "Google Ads Manage",
+      "path": "skill/automation/google-ads/google-ads-manage/SKILL.md",
+      "description": "Pause, activate, and manage Google Ads campaign objects.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "google_ads_setup",
+      "category": "automation",
+      "name": "Google Ads Setup",
+      "path": "skill/automation/google-ads/google-ads-setup/SKILL.md",
+      "description": "Verify and setup API credentials for Google Ads and GA4.",
       "version": "1.0.0",
       "installed_on": "2026-06-08"
     }
