@@ -1,5 +1,5 @@
 {
-  "total_skills": 19,
+  "total_skills": 25,
   "installed_skills": [
     {
       "id": "skill_manager",
@@ -169,6 +169,60 @@
       "name": "GSAP Utils",
       "path": "skill/design/gsap-skills/gsap-utils/SKILL.md",
       "description": "Utilizing GSAP helper functions and utility methods.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "lazyweb_ab_test_research",
+      "category": "web_quality",
+      "name": "Lazyweb A/B Test Research",
+      "path": "skill/design/lazyweb-skills/lazyweb-ab-test-research/SKILL.md",
+      "description": "Systematic evaluation of A/B testing design heuristics.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "lazyweb_design_brainstorm",
+      "category": "design",
+      "name": "Lazyweb Design Brainstorm",
+      "path": "skill/design/lazyweb-skills/lazyweb-design-brainstorm/SKILL.md",
+      "description": "Generating aesthetic concepts, color schemes, and layout options.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "lazyweb_design_improve",
+      "category": "design",
+      "name": "Lazyweb Design Improve",
+      "path": "skill/design/lazyweb-skills/lazyweb-design-improve/SKILL.md",
+      "description": "Actionable feedback for enhancing layout, contrast, typography, and premium feel.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "lazyweb_design_research",
+      "category": "design",
+      "name": "Lazyweb Design Research",
+      "path": "skill/design/lazyweb-skills/lazyweb-design-research/SKILL.md",
+      "description": "Evaluating UX flows, visual hierarchies, and usability paradigms.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "lazyweb_paywall_optimization",
+      "category": "marketing",
+      "name": "Lazyweb Paywall Optimization",
+      "path": "skill/design/lazyweb-skills/lazyweb-paywall-optimization/SKILL.md",
+      "description": "Improving landing page and paywall conversion rates.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "lazyweb_quick_references",
+      "category": "core",
+      "name": "Lazyweb Quick References",
+      "path": "skill/design/lazyweb-skills/lazyweb-quick-references/SKILL.md",
+      "description": "Rapid lookup guidelines for modern UX and frontend development.",
       "version": "1.0.0",
       "installed_on": "2026-06-08"
     }
