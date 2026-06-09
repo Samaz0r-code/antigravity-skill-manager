@@ -1,5 +1,5 @@
 {
-  "total_skills": 11,
+  "total_skills": 19,
   "installed_skills": [
     {
       "id": "skill_manager",
@@ -97,6 +97,78 @@
       "name": "Karpathy Guidelines",
       "path": "skill/core/karpathy-guidelines/SKILL.md",
       "description": "Behavioral guidelines to reduce common LLM coding mistakes.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_core",
+      "category": "design",
+      "name": "GSAP Core",
+      "path": "skill/design/gsap-skills/gsap-core/SKILL.md",
+      "description": "Core GSAP concepts, syntax, and basic tweens.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_frameworks",
+      "category": "design",
+      "name": "GSAP Frameworks",
+      "path": "skill/design/gsap-skills/gsap-frameworks/SKILL.md",
+      "description": "Best practices for integrating GSAP with modern web frameworks.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_performance",
+      "category": "design",
+      "name": "GSAP Performance",
+      "path": "skill/design/gsap-skills/gsap-performance/SKILL.md",
+      "description": "Optimizing GSAP animations for performance and smooth rendering.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_plugins",
+      "category": "design",
+      "name": "GSAP Plugins",
+      "path": "skill/design/gsap-skills/gsap-plugins/SKILL.md",
+      "description": "Using official and third-party GSAP plugins.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_react",
+      "category": "design",
+      "name": "GSAP React",
+      "path": "skill/design/gsap-skills/gsap-react/SKILL.md",
+      "description": "Hooks, lifecycle, and patterns for GSAP in React environments.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_scrolltrigger",
+      "category": "design",
+      "name": "GSAP ScrollTrigger",
+      "path": "skill/design/gsap-skills/gsap-scrolltrigger/SKILL.md",
+      "description": "Creating scroll-driven animations with ScrollTrigger.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_timeline",
+      "category": "design",
+      "name": "GSAP Timeline",
+      "path": "skill/design/gsap-skills/gsap-timeline/SKILL.md",
+      "description": "Sequencing animations efficiently using GSAP timelines.",
+      "version": "1.0.0",
+      "installed_on": "2026-06-08"
+    },
+    {
+      "id": "gsap_utils",
+      "category": "design",
+      "name": "GSAP Utils",
+      "path": "skill/design/gsap-skills/gsap-utils/SKILL.md",
+      "description": "Utilizing GSAP helper functions and utility methods.",
       "version": "1.0.0",
       "installed_on": "2026-06-08"
     }
